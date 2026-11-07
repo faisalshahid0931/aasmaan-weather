@@ -1,0 +1,5 @@
+android/build/
+android/gen/
+android/*.jks
+android/assets/index.html
+__pycache__/
